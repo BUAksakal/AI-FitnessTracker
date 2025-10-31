@@ -3,10 +3,6 @@
 > **Minimal. Intelligent. Motivating.**  
 > Your personal AI fitness companion that helps you track, analyze, and improve your workouts.
 
-<p align="center">
-  <img src="images/app_preview.png" width="850" alt="FocusQuest App Preview">
-</p>
-
 ---
 
 ## 🚀 Overview
