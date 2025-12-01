@@ -54,7 +54,7 @@ The upcoming AI module will:
 ## 📱 App Preview
 
 <p align="center">
- <img width="642" height="547" alt="Screenshot 2025-12-01 at 12 44 23" src="https://github.com/user-attachments/assets/b6cd7271-b821-4ebb-a1fd-8805e401d3ff" />
+<img width="1248" height="832" alt="Gemini_Generated_Image_8njzsj8njzsj8njz" src="https://github.com/user-attachments/assets/b5c057f1-f18f-4e2f-9830-4120f6db576e" />
 </p>
 
 ---
@@ -62,6 +62,7 @@ The upcoming AI module will:
 ## 👤 Author
 
 **Berke Uğur Aksakal**  
+
 M.Sc. Artificial Intelligence Engineering  
 📍 Germany 🇩🇪  
 💼 [GitHub Profile](https://github.com/BUAksakal)
