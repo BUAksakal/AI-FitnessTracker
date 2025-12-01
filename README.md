@@ -54,7 +54,7 @@ The upcoming AI module will:
 ## 📱 App Preview
 
 <p align="center">
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c9d8fecf-186b-4d87-ac25-22260dd4dbcf" />
+ <img width="642" height="547" alt="Screenshot 2025-12-01 at 12 44 23" src="https://github.com/user-attachments/assets/b6cd7271-b821-4ebb-a1fd-8805e401d3ff" />
 </p>
 
 ---
